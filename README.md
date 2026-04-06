@@ -9,3 +9,8 @@ A CLI-based password security tool that:
 - SHA-1 hashing
 - K-anonymity (via Have I Been Pwned API)
 - Secure password input (hidden)
+
+## Usage
+
+```bash
+python checker.py
